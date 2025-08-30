@@ -1,0 +1,5 @@
+{
+  "name": "Insta Public Media Saver",
+  "description": "A web application to preview and download public media from Instagram links. This tool is not affiliated with Instagram and users must respect copyright laws.",
+  "requestFramePermissions": []
+}
